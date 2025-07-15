@@ -1,6 +1,11 @@
-#
--  Hi, I’m @DarkRawel.
--  I’m interested in python and game development.
--  I’m currently learning coading in python, php, c++, c#, html, css, js.
--  How to reach me darkravel56@gmail.com.
-#
+# 👋 Hi there, I'm @DarkRawel!
+
+## 🧠 About Me
+- 🎮 I’m passionate about **Python** and **game development**.
+- 🛠️ Currently learning **Python**, **C++**, **HTML**, **CSS**, **JavaScript**, and **Rust**.
+- 🌱 Always excited to explore new technologies and improve my coding skills.
+
+## 📫 Contact
+- 📧 Email: [darkravel56@gmail.com](mailto:darkravel56@gmail.com)
+
+Thanks for stopping by! 🚀
