@@ -1,31 +1,34 @@
-<h1 align="center">Hi there 👋, I'm @DarkRawel</h1>
-<h3 align="center">💻 18 y/o coder passionate about coding</h3>
+# Hi there 👋, I'm @DarkRawel
+
+💻 **18 y/o coder passionate about technology & learning**
 
 ---
 
-### 🧠 About Me
-- 🎮 Passionate about **Python** and **learning new coding languages**
-- 🌱 Currently learning:  
-  `Python` · `C++` · `HTML` · `CSS` · `JavaScript` · `Rust`
-- 🚀 Always curious, constantly exploring new technologies, and building cool stuff behind the scenes
+## 🧠 About Me
+- 🎯 Passionate about **Python** and discovering new languages
+- 📚 Currently learning:
+  `Python` • `C++` • `HTML` • `CSS` • `JavaScript` • `Rust`
+- 🔍 Always curious, exploring new technologies & building cool things
 
 ---
 
-### 📬 Contact Me
-- 📧 Email: [darkravel56@gmail.com](mailto:darkravel56@gmail.com)
+## 📬 Contact Me
+- Email: [darkravel56@gmail.com](mailto:darkravel56@gmail.com)
 
 ---
 
-### 📌 Projects
-> 🛠️ I'm still working on projects and learning — stay tuned!  
-> I’ll make some repositories public when I’m ready to share them.
+## 🚀 Pinned Projects
+
+[![DarkRealm](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=DarkRealm&theme=radical)](https://github.com/DarkRawel/DarkRealm)  
+🧪 **DarkRealm** — Experimental playground for game logic, design, and creative ideas.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkRawel&show_icons=true&theme=tokyonight&hide=contribs,prs" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <i>Thanks for visiting! 🚀</i>
-</p>
+![DarkRawel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkRawel&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkRawel&layout=compact&theme=radical)
+
+---
+
+_Thanks for visiting 🚀_
