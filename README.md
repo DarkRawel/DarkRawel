@@ -14,6 +14,7 @@
 
 ## 📬 Contact Me
 - 📧 Email: [darkravel56@gmail.com](mailto:darkravel56@gmail.com)
+- 💬 Discord: [darkravel](https://discord.com/users/1298002635403690037)
 
 ---
 
