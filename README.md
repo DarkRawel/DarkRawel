@@ -6,21 +6,23 @@
 
 ## 🧠 About Me
 - 🎯 Passionate about **Python** and discovering new languages
-- 📚 Currently learning:
+- 📚 Currently learning:  
   `Python` • `C++` • `HTML` • `CSS` • `JavaScript` • `Rust`
 - 🔍 Always curious, exploring new technologies & building cool things
 
 ---
 
 ## 📬 Contact Me
-- Email: [darkravel56@gmail.com](mailto:darkravel56@gmail.com)
+- 📧 Email: [darkravel56@gmail.com](mailto:darkravel56@gmail.com)
 
 ---
 
-## 🚀 Working on
+## 🚀 Current Project
 
 [![DarkRealm](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=DarkRealm&theme=radical)](https://github.com/DarkRawel/DarkRealm)  
-🧪 **DarkRealm** — Experimental playground for game logic, design, and creative ideas.
+🧪 **DarkRealm** — A fantasy-themed, text-based RPG.  
+Help me build mechanics, enemies, ASCII art, and a rich story-driven world!  
+🤝 [Join me here](https://github.com/DarkRawel/DarkRealm) if you'd like to contribute.
 
 ---
 
@@ -31,4 +33,4 @@
 
 ---
 
-_Thanks for visiting 🚀_
+_Thanks for visiting! 🚀_
