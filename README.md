@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm DarkRawel
 
 💻 **19-year-old coder passionate about tech, games, and learning**
@@ -36,8 +35,8 @@ _✨ These project cards update automatically from GitHub!_
 [![cpp-mini-projects](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=cpp-mini-projects&theme=radical)](https://github.com/DarkRawel/cpp-mini-projects)  
 🧮 **cpp-mini-projects** — Simple C++ tools for practice and learning.
 
-### 🦀 Rust Mini Projects  
-[![rust-mini-projects](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=rust-mini-projects&theme=radical)](https://github.com/DarkRawel/rust-mini-projects)  
+### 🦀 Rust Mini Guessing Game  
+[![rust-mini-guessing-game](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=rust-mini-guessing-game&theme=radical)](https://github.com/DarkRawel/rust-mini-guessing-game)  
 ⚙️ **rust-mini-guessing-game** — Fun Rust program and experiment.
 
 ---
