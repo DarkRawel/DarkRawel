@@ -28,7 +28,6 @@ Help me build mechanics, enemies, ASCII art, and a rich story-driven world!
 ---
 
 ## 🚀 Projects Made for Fun and Learning  
-_✨ These project cards update automatically from GitHub!_
 
 ### 🔢 C++ Mini Projects  
 [![cpp-mini-projects](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=cpp-mini-projects&theme=radical)](https://github.com/DarkRawel/cpp-mini-projects)  
