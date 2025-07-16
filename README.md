@@ -17,13 +17,17 @@
 
 ---
 
-## 🚀 Projects I'm Working On
+## 🛠️ Projects I'm Working On
 
 ### 🎮 DarkRealm
 [![DarkRealm](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=DarkRealm&theme=radical)](https://github.com/DarkRawel/DarkRealm)  
 🧪 **DarkRealm** — A fantasy-themed, text-based RPG.  
 Help me build mechanics, enemies, ASCII art, and a rich story-driven world!  
 🤝 [Contribute here](https://github.com/DarkRawel/DarkRealm/issues)
+
+---
+
+## 🚀 Projects made for fun and learning
 
 ### 🔢 C++ Mini Projects
 [![cpp-mini-projects](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=cpp-mini-projects&theme=radical)](https://github.com/DarkRawel/cpp-mini-projects)  
@@ -38,8 +42,15 @@ Help me build mechanics, enemies, ASCII art, and a rich story-driven world!
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkRawel&show_icons=true&theme=radical&rank_icon=github&hide_title=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkRawel&layout=compact&theme=radical&hide_title=true" width="47%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DarkRawel&show_icons=true&theme=radical&rank_icon=github&hide_title=true" 
+    width="450" height="150" 
+    style="margin-right: 10px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkRawel&layout=compact&theme=radical&hide=makefile,batchfile,cmake,ini" 
+    width="350" height="150" 
+  />
 </div>
 
 ---
