@@ -18,7 +18,6 @@
 ---
 
 ## 🛠️ Projects I'm Working On  
-_✨ These project cards update automatically from GitHub!_
 
 ### 🎮 DarkRealm  
 [![DarkRealm](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=DarkRealm&theme=radical)](https://github.com/DarkRawel/DarkRealm)  
