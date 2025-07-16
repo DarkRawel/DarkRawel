@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm DarkRawel
 
 💻 **19-year-old coder passionate about tech, games, and learning**
@@ -17,9 +18,10 @@
 
 ---
 
-## 🛠️ Projects I'm Working On
+## 🛠️ Projects I'm Working On  
+_✨ These project cards update automatically from GitHub!_
 
-### 🎮 DarkRealm
+### 🎮 DarkRealm  
 [![DarkRealm](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=DarkRealm&theme=radical)](https://github.com/DarkRawel/DarkRealm)  
 🧪 **DarkRealm** — A fantasy-themed, text-based RPG.  
 Help me build mechanics, enemies, ASCII art, and a rich story-driven world!  
@@ -27,13 +29,14 @@ Help me build mechanics, enemies, ASCII art, and a rich story-driven world!
 
 ---
 
-## 🚀 Projects made for fun and learning
+## 🚀 Projects Made for Fun and Learning  
+_✨ These project cards update automatically from GitHub!_
 
-### 🔢 C++ Mini Projects
+### 🔢 C++ Mini Projects  
 [![cpp-mini-projects](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=cpp-mini-projects&theme=radical)](https://github.com/DarkRawel/cpp-mini-projects)  
 🧮 **cpp-mini-projects** — Simple C++ tools for practice and learning.
 
-### 🦀 Rust Mini Projects
+### 🦀 Rust Mini Projects  
 [![rust-mini-projects](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=rust-mini-projects&theme=radical)](https://github.com/DarkRawel/rust-mini-projects)  
 ⚙️ **rust-mini-guessing-game** — Fun Rust program and experiment.
 
