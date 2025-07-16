@@ -1,6 +1,6 @@
 # 👋 Hi, I'm DarkRawel
 
-💻 **18-year-old coder passionate about tech, games, and learning**
+💻 **19-year-old coder passionate about tech, games, and learning**
 
 ---
 
@@ -17,22 +17,29 @@
 
 ---
 
-## 🚀 Current Project
+## 🚀 Projects I'm Working On
 
+### 🎮 DarkRealm
 [![DarkRealm](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=DarkRealm&theme=radical)](https://github.com/DarkRawel/DarkRealm)  
 🧪 **DarkRealm** — A fantasy-themed, text-based RPG.  
 Help me build mechanics, enemies, ASCII art, and a rich story-driven world!  
-🤝 [Join me here](https://github.com/DarkRawel/DarkRealm) if you'd like to contribute.
+🤝 [Contribute here](https://github.com/DarkRawel/DarkRealm/issues)
 
-[![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/DarkRawel/DarkRealm/issues)
+### 🔢 C++ Mini Projects
+[![cpp-mini-projects](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=cpp-mini-projects&theme=radical)](https://github.com/DarkRawel/cpp-mini-projects)  
+🧮 **cpp-mini-projects** — Simple C++ tools for practice and learning.
+
+### 🦀 Rust Mini Projects
+[![rust-mini-projects](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=rust-mini-projects&theme=radical)](https://github.com/DarkRawel/rust-mini-projects)  
+⚙️ **rust-mini-guessing-game** — Fun Rust program and experiment.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkRawel&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkRawel&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkRawel&show_icons=true&theme=radical&rank_icon=github&hide_title=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkRawel&layout=compact&theme=radical&hide_title=true" width="47%" />
 </div>
 
 ---
