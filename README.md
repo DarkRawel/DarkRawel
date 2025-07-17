@@ -37,6 +37,7 @@ Help me build mechanics, enemies, ASCII art, and a rich story-driven world!
 [![rust-mini-guessing-game](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=rust-mini-guessing-game&theme=radical)](https://github.com/DarkRawel/rust-mini-guessing-game)  
 ⚙️ **rust-mini-guessing-game** — Fun Rust program and experiment.
 
+### ➕ And more!
 ---
 
 ## 📊 GitHub Stats
