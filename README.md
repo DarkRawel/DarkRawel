@@ -19,11 +19,9 @@
 
 ## 🛠️ Projects I'm Working On  
 
-### 🎮 DarkRealm  
-[![DarkRealm](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=DarkRealm&theme=radical)](https://github.com/DarkRawel/DarkRealm)  
-🧪 **DarkRealm** — A fantasy-themed, text-based RPG.  
-Help me build mechanics, enemies, ASCII art, and a rich story-driven world!  
-🤝 [Contribute here](https://github.com/DarkRawel/DarkRealm/issues)
+### 🎮 RealmExplorer  
+[![DarkRealm](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=DarkRealm&theme=radical)](https://github.com/DarkRawel/RealmExplorer)  
+🧪 **RealmExplorer** — A 2D python RPG.  
 
 ---
 
