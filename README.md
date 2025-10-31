@@ -20,7 +20,7 @@
 ## 🛠️ Projects I'm Working On  
 
 ### 🎮 RealmExplorer  
-[![DarkRealm](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=DarkRealm&theme=radical)](https://github.com/DarkRawel/RealmExplorer)  
+[![RealmExplorer](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=DarkRealm&theme=radical)](https://github.com/DarkRawel/RealmExplorer)  
 🧪 **RealmExplorer** — A 2D python RPG.  
 
 ---
