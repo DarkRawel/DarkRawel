@@ -20,8 +20,8 @@
 ## 🛠️ Projects I'm Working On  
 
 ### 🎮 RealmExplorer  
-[![RealmExplorer](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=RealmExplorer&theme=radical)](https://github.com/DarkRawel/RealmExplorer)  
-🧪 **RealmExplorer** — A 2D python RPG.  
+[![Arcana](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=Arcana&theme=radical)](https://github.com/DarkRawel/Arcana)  
+🧪 **Arcana** — Arcana is a strategic card game inspired by Magic The Gathering and Yu-Gi-Oh!. Build decks, summon creatures, cast spells,and duel opponents in a turn-based fantasy battle. Currently in early development in Godot Engine. 
 
 ---
 
