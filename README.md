@@ -5,9 +5,9 @@
 ---
 
 ## 🧠 About Me
-- 🎯 Passionate about **Python** and exploring new languages
-- 📚 Currently learning: `Python` • `C++` • `HTML` • `CSS` • `JavaScript` • `Rust`
-- 🧠 Always curious, experimenting with new technologies and building fun stuff
+- 🎯 Passionate about **Python** and exploring new languages  
+- 📚 Currently learning: `Python` • `C++` • `HTML` • `CSS` • `JavaScript` • `Rust`  
+- 🧠 Always curious, experimenting with new technologies and building fun stuff  
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### 🎮 Arcana  
 [![Arcana](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=Arcana&theme=radical)](https://github.com/DarkRawel/Arcana)  
-🧪 **Arcana** — Arcana is a strategic card game inspired by Magic The Gathering and Yu-Gi-Oh!. Build decks, summon creatures, cast spells,and duel opponents in a turn-based fantasy battle. Currently in early development in Godot Engine. 
+🧪 **Arcana** — A strategic card game inspired by Magic The Gathering and Yu-Gi-Oh!. Build decks, summon creatures, cast spells, and duel opponents in a turn-based fantasy battle. Currently in early development in Godot Engine.
 
 ---
 
@@ -35,20 +35,14 @@
 [![rust-mini-guessing-game](https://github-readme-stats.vercel.app/api/pin/?username=DarkRawel&repo=rust-mini-guessing-game&theme=radical)](https://github.com/DarkRawel/rust-mini-guessing-game)  
 ⚙️ **rust-mini-guessing-game** — Fun Rust program and experiment.
 
-### ➕ And more!
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=DarkRawel&show_icons=true&theme=radical&rank_icon=github&hide_title=true" 
-    width="450" height="150" 
-    style="margin-right: 10px;" 
-  />
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkRawel&layout=compact&theme=radical&hide=makefile,batchfile,cmake,ini" 
-    width="350" height="150" 
+    width="350"
   />
 </div>
 
