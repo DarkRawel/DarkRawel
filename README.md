@@ -12,7 +12,7 @@ I build small tools and game prototypes while learning modern languages and engi
 ---
 
 ## 📬 Contact
-- ✉️ [darkravel56@gmail.com](mailto:darkravel56@gmail.com)  
+- ✉️ Gmail: [darkravel56@gmail.com](mailto:darkravel56@gmail.com)  
 - 💬 Discord: [`darkravel`](https://discord.com/users/1298002635403690037)
 
 ---
